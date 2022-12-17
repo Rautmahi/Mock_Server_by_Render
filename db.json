@@ -1,15 +1,76 @@
 {
     "users": [
       {
-        "name": "Masai",
-        "city": "Banglore",
-        "location": "Tamilnadu",
-        "role": "fullstack",
+        "company": "Tcs",
+        "city": "Mumbai",
+        "location": "Maharashtra",
+        "role": "fontend",
+        "level": "senior",
         "contract": "fulltime",
         "country": "India",
-        "position": "fsd",
-        "language": "js",
-        "id": 7
+        "position": "juniorbackend",
+        "language": "java",
+        "id": 1
+      },
+      {
+        "company": "Capegemini",
+        "city": "Hyderabad",
+        "location": "Telangana",
+        "role": "backend",
+        "level": "senior",
+        "contract": "fulltime",
+        "country": "India",
+        "position": "fontend",
+        "language": "java",
+        "id": 2
+      },
+      {
+        "company": "Tcs",
+        "city": "Mumbai",
+        "location": "Maharashtra",
+        "role": "fontend",
+        "level": "senior",
+        "contract": "fulltime",
+        "country": "India",
+        "position": "juniorbackend",
+        "language": "java",
+        "id": 3
+      },
+      {
+        "company": "Capegemini",
+        "city": "Hyderabad",
+        "location": "Telangana",
+        "role": "backend",
+        "level": "senior",
+        "contract": "fulltime",
+        "country": "India",
+        "position": "fontend",
+        "language": "java",
+        "id": 4
+      },
+      {
+        "company": "Tcs",
+        "city": "Mumbai",
+        "location": "Maharashtra",
+        "role": "fontend",
+        "level": "senior",
+        "contract": "fulltime",
+        "country": "India",
+        "position": "juniorbackend",
+        "language": "java",
+        "id": 5
+      },
+      {
+        "company": "Capegemini",
+        "city": "Hyderabad",
+        "location": "Telangana",
+        "role": "backend",
+        "level": "senior",
+        "contract": "fulltime",
+        "country": "India",
+        "position": "fontend",
+        "language": "java",
+        "id": 6
       }
     ]
   }
