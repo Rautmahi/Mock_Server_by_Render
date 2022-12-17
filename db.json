@@ -1,53 +1,15 @@
 {
     "users": [
       {
-        "name": "Mahesh Raut",
-        "age": "27",
-        "gender": "male",
+        "name": "Masai",
+        "city": "Banglore",
+        "location": "Tamilnadu",
+        "role": "fullstack",
+        "contract": "fulltime",
         "country": "India",
-        "profession": "student",
-        "id": 1
-      },
-      {
-        "name": "Sumeet ",
-        "age": "26",
-        "gender": "male",
-        "country": "India",
-        "profession": "employed",
-        "id": 2
-      },
-      {
-        "name": "Mahesh Raut",
-        "age": "27",
-        "gender": "male",
-        "country": "India",
-        "profession": "student",
-        "id": 3
-      },
-      {
-        "name": "Sumeet ",
-        "age": "26",
-        "gender": "male",
-        "country": "India",
-        "profession": "employed",
-        "id": 4
-      },
-      {
-        "name": "Mahesh Raut",
-        "age": "27",
-        "gender": "male",
-        "country": "India",
-        "profession": "student",
-        "id": 5
-      },
-      {
-        "name": "Praveen ",
-        "age": "26",
-        "gender": "male",
-        "country": "India",
-        "profession": "employed",
-        "id": 6
+        "position": "fsd",
+        "language": "js",
+        "id": 7
       }
-      
     ]
   }
