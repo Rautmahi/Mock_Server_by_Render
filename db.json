@@ -1,31 +1,8 @@
 {
     "users": [
+
       {
-        "company": "Tcs",
-        "city": "Mumbai",
-        "location": "Maharashtra",
-        "role": "fontend",
-        "level": "senior",
-        "contract": "fulltime",
-        "country": "India",
-        "position": "juniorbackend",
-        "language": "java",
-        "id": 1
-      },
-      {
-        "company": "Capegemini",
-        "city": "Hyderabad",
-        "location": "Telangana",
-        "role": "backend",
-        "level": "senior",
-        "contract": "fulltime",
-        "country": "India",
-        "position": "fontend",
-        "language": "java",
-        "id": 2
-      },
-      {
-        "titleofnotes": "Tak",
+        "titleofnotes": "Task",
         "description": "workout",
         "date": "21/12/2022",
         "id": 1
